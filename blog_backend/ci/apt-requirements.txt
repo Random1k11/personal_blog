@@ -1,0 +1,6 @@
+gcc
+python3-dev
+musl-dev
+postgresql-dev
+bash
+git
